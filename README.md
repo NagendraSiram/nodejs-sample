@@ -11,6 +11,7 @@ npm init
 npm start => runs start script defined in package.json
 npm test => runs test script defined in package.json
 npm run custom-script => runs custom script defined in package.json
+npm ls => list all the packages installed
 
 npm install express 
 npm install something -g => install module globally 

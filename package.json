@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-sample",
+  "version": "1.0.0",
+  "description": "sample node.js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "custom-script": "echo \"My name is nagendra\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NagendraSiram/nodejs-sample.git"
+  },
+  "author": "nagendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NagendraSiram/nodejs-sample/issues"
+  },
+  "homepage": "https://github.com/NagendraSiram/nodejs-sample#readme"
+}
